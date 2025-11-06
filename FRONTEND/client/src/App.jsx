@@ -11,7 +11,7 @@ const App = () => {
   const appStyle = {
     fontFamily: "Arial, sans-serif",
     backgroundColor: "#f4f6f8",
-    minHeight: "100vh",
+    minHeight: "99vh",
     margin: 0,
     padding: 0,
   };
