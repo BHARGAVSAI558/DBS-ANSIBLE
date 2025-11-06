@@ -1,7 +1,7 @@
 import React from "react";
 
 const BrandPage = () => {
-  const brands = ["Yamaha", "Royal Enfield", "KTM", "Suzuki", "Honda", "BMW"];
+  const brands = ["Yamaha", "RoyaL Enfield", "KTM", "Suzuki", "Honda", "BMW"];
 
   const containerStyle = { textAlign: "center", padding: "40px" };
   const listStyle = { listStyleType: "none", padding: 0 };
